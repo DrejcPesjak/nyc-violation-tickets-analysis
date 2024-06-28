@@ -1,0 +1,15 @@
+# NYC Central Park - Hourly Weather
+https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/New%20York%20City%2CUSA/2013-01-01/2024-05-01?unitGroup=metric&include=hours
+
+# School locations 2019 - 2020
+https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6/about_data
+
+# Event (also construction work) Historical Information 2008 - 2024
+https://data.cityofnewyork.us/City-Government/NYC-Permitted-Event-Information-Historical/bkfu-528j/about_data
+
+# Business locations
+https://data.cityofnewyork.us/Business/Legally-Operating-Businesses/w7w3-xahh/about_data
+
+# Landmarks Sites
+https://data.cityofnewyork.us/Housing-Development/Individual-Landmark-Sites/buis-pvji/about_data
+https://data.cityofnewyork.us/Housing-Development/Individual-Landmark-Sites-Map-/ts56-fkf5
