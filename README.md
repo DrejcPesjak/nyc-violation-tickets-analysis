@@ -1,6 +1,6 @@
 # NYC Violation Tickets Analysis
 
-![](https://github.com/DrejcPesjak/nyc-violation-tickets-analysis/gif/violations_2.gif)
+![](https://github.com/DrejcPesjak/nyc-violation-tickets-analysis/blob/main/gif/violations_2.gif)
 
 
 ## Overview
