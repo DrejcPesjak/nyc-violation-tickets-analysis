@@ -1,5 +1,8 @@
 # NYC Violation Tickets Analysis
 
+![](https://github.com/DrejcPesjak/nyc-violation-tickets-analysis/gif/violations_2.gif)
+
+
 ## Overview
 This repository contains the code and documentation for a big data project focused on analyzing and predicting NYC violation tickets. The project utilizes a variety of data sources, including weather data, school locations, businesses, landmarks, events, and holidays, to provide a comprehensive analysis.
 
